@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ballen/distical": "^2.0"
+    }
+}
