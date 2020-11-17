@@ -57,22 +57,22 @@ echo'
                 
                 <div class="input-field col s2">
                     <label for="n_entero">Introduce la Latitud Punto 1:</label>
-                    <input name="n_entero" type="text" class="validate">
+                    <input name="n_lat1" type="text" class="validate">
                     
                 </div>
                 <div class="input-field col s2">
                     <label for="n_entero">Introduce la Longitud  Punto 1:</label>
-                    <input name="n_entero" type="text" class="validate">
+                    <input name="n_long1" type="text" class="validate">
                 
                 </div>
                 <div class="input-field col s2">
                     <label for="n_entero">Introduce la Latitud Punto 2:</label>
-                    <input name="n_entero" type="text" class="validate">
+                    <input name="n_lat2" type="text" class="validate">
                 
                 </div>
                 <div class="input-field col s2">
                     <label for="n_entero">Introduce la Longitud  Punto 2:</label>
-                    <input name="n_entero" type="text" class="validate">
+                    <input name="n_long2" type="text" class="validate">
                 
                 </div>
                
