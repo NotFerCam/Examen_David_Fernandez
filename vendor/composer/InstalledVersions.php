@@ -19,7 +19,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '255923b3e3bb549eebb719e157b6fa7c6f2ea8f5',
+    'reference' => '06302a1544f3809c6f0ccf71499f5218d3752dd2',
     'name' => '__root__',
   ),
   'versions' => 
@@ -31,7 +31,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '255923b3e3bb549eebb719e157b6fa7c6f2ea8f5',
+      'reference' => '06302a1544f3809c6f0ccf71499f5218d3752dd2',
     ),
     'ballen/distical' => 
     array (

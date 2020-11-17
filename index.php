@@ -23,7 +23,7 @@ echo'
     <div class="row">
 
         <div class="col s12  blue center-align card-panel teal lighten-2">
-            <h4>Examen Despliegue Aplicaciones Web</h4>
+            <h4>Examen Despliegue Aplicaciones Web David Fernandez</h4>
         </div>
         
         <div class="col s12  ">
@@ -52,7 +52,7 @@ echo'
                     <a title="Heroku" href="https://examen-david-fernandez.herokuapp.com/"><img src="imagenes/heroku.png" alt="Heroku" width="120" height="120" /></a>
                     </p>
         </aside>
-        <form class="col s12" method = "POST">
+        <form class="col s12" method = "POST" action="respuesta.php">
             <div class="row">
                 
                 <div class="input-field col s2">

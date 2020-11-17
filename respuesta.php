@@ -1,7 +1,6 @@
 <?php
     use Ballen\Distical\Calculator as DistanceCalculator;
     use Ballen\Distical\Entities\LatLong;
-    
     // Set our Lat/Long coordinates
     $ipswich = new LatLong(52.057941, 1.147172);
     $london = new LatLong(51.507608, -0.127822);
